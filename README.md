@@ -7,4 +7,4 @@
 - 📫 You can reach me with: aegean.sword1@gmail.com
 - 😄 Pronouns: he/him - FemBoy
 - ⚡ Fun fact: I try to learn something every day, my favorite subject is space and astronomy! 🌌
-** My projects also here ** : *** @PlexusNetworkSystem ***
+**My projects also here** : ***@PlexusNetworkSystem***
