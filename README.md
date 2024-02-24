@@ -6,7 +6,7 @@ Hi there 👋 I'm Abra
 - 👯 I’m looking to collaborate on DockerShell and Plexus Asistan project
 - 💬 Ask me about for how to learn coding!
 - 📫 You can reach me with: abra@plexusteam.org
-- 😄 Pronouns: he/him - FemBoy
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I try to learn something every day, my favorite subject is space and astronomy! 🌌
 
 My projects also here
