@@ -1,9 +1,9 @@
 Hi there 👋 I'm Abra
 =============================================================
 
-- 🔭 I’m currently working on PNA Portal
-- 🌱 I’m currently learning Micro Bit Programming
-- 👯 I’m looking to collaborate on DockerShell and Plexus Asistan project
+- 🔭 I’m currently working at PNA
+- 🌱 I’m currently learning Chinese and Korean 
+- 👯 I’m looking to collaborate on DockerShell
 - 💬 Ask me about for how to learn coding!
 - 📫 You can reach me with: abra@plexusteam.org
 - 😄 Pronouns: he/him
