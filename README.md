@@ -1,15 +1,17 @@
-Hi there 👋 I'm Abra
-=============================================================
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/the-abra/the-abra/master/name.svg" alt="The Abra" />
+</h1>
 
-- 🔭 I’m currently working at PNA
-- 🌱 I’m currently learning Chinese and Korean 
-- 👯 I’m looking to collaborate on DockerShell
-- 💬 Ask me about for how to learn coding!
-- 📫 You can reach me with: abra@plexusteam.org
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I try to learn something every day, my favorite subject is space and astronomy! 🌌
+## Hey! 👋
+I'm Abra, a 19 years old DevOps from Türkiye.
 
-My Tech Stacks
-=============================================================
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+## Skills
+- 👨‍💻 JavaScript, C, Go, Shell, python, etc...
+- ⚙️ Docker, VM, Linux, Git
+- 👁️ KDE, GNOME, Electron
+- 💽 SQL, Mongo, Cassandra
++ a lot more :D
 
+## Contact
+- [E-Mail](https://aegean.sword1@gmail.com)
+- [@abra_aurora](./) on Discord
