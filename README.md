@@ -13,5 +13,6 @@ I'm Abra, a 19 years old DevOps from Türkiye.
 + a lot more :D
 
 ## Contact
-- [E-Mail](https://aegean.sword1@gmail.com)
+- [https://aegean.sword1@gmail.com](https://aegean.sword1@gmail.com)
+- [https://abra@plexusteam.org](https://abra@plexusteam.org)
 - [@abra_aurora](./) on Discord
