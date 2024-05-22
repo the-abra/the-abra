@@ -10,8 +10,8 @@ I'm Abra, a 19 years old DevOps from Türkiye.
 ## Skills
 - 👨‍💻 JavaScript, C, Go, Shell, python, etc...
 - ⚙️ Docker, VM, Linux, Git
-- 👁️ KDE, GNOME, Electron
-- 💽 SQL, Mongo, Cassandra
+- 👁️ KDE, GNOME, i3
+- 💽 MySQL, Mongo, Cassandra
 + a lot more :D
 
 ## Contact
