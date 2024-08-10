@@ -19,4 +19,6 @@ I'm Abra, a 19 years old DevOps from Türkiye.
 - [https://abra@plexusteam.org](https://abra@plexusteam.org)
 - [@abra_aurora](./) on Discord
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66802600fd607366929420f0?variant=dark)](https://roadmap.sh)
+
 [Portfolio](https://the-abra.github.io)
