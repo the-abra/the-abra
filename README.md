@@ -8,15 +8,14 @@
 I'm Abra, a 19 years old DevOps from Türkiye.
 
 ## Skills
-- 👨‍💻 JavaScript, C, Go, Shell, python, etc...
+- 👨‍💻 JavaScript, Rust, Go, Shell, python
 - ⚙️ Docker, VM, Linux, Git
 - 👁️ KDE, GNOME, i3
 - 💽 MySQL, Mongo, Cassandra
 + a lot more :D
 
 ## Contact
-- [https://aegean.sword1@gmail.com](https://aegean.sword1@gmail.com)
-- [https://abra@plexusteam.org](https://abra@plexusteam.org)
+- [https://egekilic@proton.me](https://egekilic@proton.me)
 - [@abra_aurora](./) on Discord
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66802600fd607366929420f0?variant=dark)](https://roadmap.sh)
