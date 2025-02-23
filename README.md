@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/the-abra/the-abra/master/name.svg" alt="The Abra" />
+  <img src="https://raw.githubusercontent.com/the-abra/the-abra/master/name.svg" alt="WELCOME" />
 </h1>
 
 ## Hey! 👋 
